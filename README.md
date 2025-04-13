@@ -1,7 +1,7 @@
 # effective_scan
 Improve scan step by step
 
-Please see [my blogpost](https://veitner.bearblog.dev/making-vector-sum-really-fast/) for a detailed explanation.
+Please see [my blogpost](https://veitner.bearblog.dev/making-prefix-sum-really-fast/) for a detailed explanation.
 
 | Kernel | Bandwidth (GB/s) | % of Max Bandwidth | Implementation |
 |--------|------------------|-------------------|----------------|
